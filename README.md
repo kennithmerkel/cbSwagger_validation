@@ -11,7 +11,7 @@ Second I have been coding for many years but it has all been behind the wall of 
 
 To RUN:
 Checkout the git code to your computer.
-Install CommandBox by Ortus Solutions (Coldfusion/cfml CLI environment)
+Install CommandBox by Ortus Solutions (Coldfusion/cfml CLI environment) https://www.ortussolutions.com/products/commandbox
 Run Commandbox and switch to the root directory of the git repository.
 Type "Install" to install all the dependencies. This will also auto-start the local Lucee (or Coldfusion) server, assign a random port, and open a webpage with the port number.
 
